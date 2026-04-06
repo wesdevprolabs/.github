@@ -2,7 +2,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/wesdevprolabs" alt="wesdevpro-labs-github">
-    <img src="https://github.com/wesdevprolabs/.github/blob/main/profile/images/banner.jpg" alt="wesdevpro labs banner">
+    <img src="https://github.com/wesdevprolabs/.github/blob/main/profile/images/wesdevprolabs-cover.png" alt="wesdevpro labs banner">
     <h1 style="color: white;">
       <a style="color: #00b3b3 !important;" href="https://github.com/wesdevprolabs">
         wesdevpro labs
